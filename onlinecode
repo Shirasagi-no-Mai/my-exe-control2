@@ -1,3 +1,4 @@
+{
 def inbond_program(account, password, output_text):
     expiration_date =expiration_date1
 
@@ -6459,3 +6460,4 @@ login_window()
 
 # 启动 GUI 主循环
 root.mainloop()
+}
