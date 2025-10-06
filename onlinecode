@@ -1,3 +1,4 @@
+{
 "functions": [
     { "name": "QP_program", "allowed_users": ["jianyu", "lucy", "admin"] },
     { "name": "inbond_program", "allowed_users": ["jianyu", "warehouse_team", "admin"] },
