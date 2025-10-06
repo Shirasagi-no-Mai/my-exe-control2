@@ -1,23 +1,23 @@
 {
-"functions": [
-    { "name": "QP_program", "allowed_users": ["jianyu", "lucy", "admin"] },
-    { "name": "inbond_program", "allowed_users": ["jianyu", "warehouse_team", "admin"] },
-    { "name": "transmit_program", "allowed_users": ["jianyu", "lucy", "admin"] },
-    { "name": "hold_program", "allowed_users": ["jianyu", "lucy", "admin"] },
-    { "name": "del_program", "allowed_users": ["admin"] },
-    { "name": "delallinbond_program", "allowed_users": ["admin"] },
-    { "name": "headeredit_program", "allowed_users": ["jianyu", "admin"] },
-    { "name": "statuschange_program", "allowed_users": ["jianyu", "admin"] },
-    { "name": "BBC_review_program", "allowed_users": ["jianyu", "lucy"] },
-    { "name": "document_program", "allowed_users": ["jianyu", "lucy", "admin"] },
-    { "name": "BBC_House", "allowed_users": ["jianyu", "lucy"] },
-    { "name": "release_program", "allowed_users": ["jianyu", "warehouse_team", "admin"] },
-    { "name": "query_program", "allowed_users": ["jianyu", "lucy", "admin"] },
-    { "name": "bolupdate_program", "allowed_users": ["jianyu", "lucy", "admin"] },
-    { "name": "rejectfix_program", "allowed_users": ["jianyu", "lucy", "admin"] },
-    { "name": "FDA_program", "allowed_users": ["jianyu", "lucy"] },
-    { "name": "Steel_Aluminum_dutyprogram", "allowed_users": ["jianyu", "admin"] },
-    { "name": "line_extract", "allowed_users": ["jianyu", "lucy", "admin"] },
-    { "name": "reverse_line_extract", "allowed_users": ["jianyu", "lucy", "admin"] }
+  "functions": [
+    { "name": "QP_program", "allowed_users": ["CONNIE-XUE-NUP", "LARRY-LIU-NUP"] },
+    { "name": "inbond_program", "allowed_users": ["CONNIE-XUE-NUP", "LARRY-LIU-NUP"] },
+    { "name": "transmit_program", "allowed_users": ["CONNIE-XUE-NUP", "LARRY-LIU-NUP"] },
+    { "name": "hold_program", "allowed_users": ["CONNIE-XUE-NUP", "LARRY-LIU-NUP"] },
+    { "name": "del_program", "allowed_users": ["CONNIE-XUE-NUP", "LARRY-LIU-NUP"] },
+    { "name": "delallinbond_program", "allowed_users": ["CONNIE-XUE-NUP", "LARRY-LIU-NUP"] },
+    { "name": "headeredit_program", "allowed_users": ["CONNIE-XUE-NUP", "LARRY-LIU-NUP"] },
+    { "name": "statuschange_program", "allowed_users": ["CONNIE-XUE-NUP", "LARRY-LIU-NUP"] },
+    { "name": "BBC_review_program", "allowed_users": ["CONNIE-XUE-NUP", "LARRY-LIU-NUP"] },
+    { "name": "document_program", "allowed_users": ["CONNIE-XUE-NUP", "LARRY-LIU-NUP"] },
+    { "name": "BBC_House", "allowed_users": ["CONNIE-XUE-NUP", "LARRY-LIU-NUP"] },
+    { "name": "release_program", "allowed_users": ["CONNIE-XUE-NUP", "LARRY-LIU-NUP"] },
+    { "name": "query_program", "allowed_users": ["CONNIE-XUE-NUP", "LARRY-LIU-NUP"] },
+    { "name": "bolupdate_program", "allowed_users": ["CONNIE-XUE-NUP", "LARRY-LIU-NUP"] },
+    { "name": "rejectfix_program", "allowed_users": ["CONNIE-XUE-NUP", "LARRY-LIU-NUP"] },
+    { "name": "FDA_program", "allowed_users": ["CONNIE-XUE-NUP", "LARRY-LIU-NUP"] },
+    { "name": "Steel_Aluminum_dutyprogram", "allowed_users": ["CONNIE-XUE-NUP", "LARRY-LIU-NUP"] },
+    { "name": "line_extract", "allowed_users": ["CONNIE-XUE-NUP", "LARRY-LIU-NUP"] },
+    { "name": "reverse_line_extract", "allowed_users": ["CONNIE-XUE-NUP"] }
   ]
 }
